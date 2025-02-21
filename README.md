@@ -2,10 +2,7 @@
 
 **`Digital Craftsman`**
 
-<img align="right" height="200" src="https://i.imgur.com/nFUzUuv.gif"/>
-
 Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
-
 
 <p align="left">
     <a href="https://www.youtube.com/@krabz.?sub_confirmation=1">
@@ -34,3 +31,4 @@ Computer Science student at Sapienza University of Rome. Passionate about coding
 ### 📊 Stats
 
 ![realKrabZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkrabz&show_icons=true&theme=dark&custom_title=realKrabZ&hide_border=true&border_radius=10)
+<img align="right" height="150" src="https://i.imgur.com/nFUzUuv.gif"/>
