@@ -2,20 +2,10 @@
 
 **`Digital Craftsman`**
 
-<table>
-  <tr>
-    <td>
-      <p align="left">
-        Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
-      </p>
-    </td>
-    <td>
-      <p align="right">
-        <img src="https://i.imgur.com/nFUzUuv.gif" alt="Image">
-      </p>
-    </td>
-  </tr>
-</table>
+<img align="right" height="200" src="https://i.imgur.com/nFUzUuv.gif"/>
+
+Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
+
 
 <p align="left">
     <a href="https://www.youtube.com/@krabz.?sub_confirmation=1">
