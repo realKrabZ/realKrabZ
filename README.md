@@ -2,9 +2,13 @@
 
 **`Digital Craftsman`**
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="left">
+  Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
+</p>
 
-Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
+<p align="right">
+  <img src="https://tenor.com/it/view/gg-gif-27149944">
+</p>
 
 <p align="left">
     <a href="https://www.youtube.com/@krabz.?sub_confirmation=1">
