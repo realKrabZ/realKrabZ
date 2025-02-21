@@ -4,8 +4,6 @@
 
 Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
 
----
-
 <p align="left">
     <a href="https://www.youtube.com/@krabz.?sub_confirmation=1">
         <img alt="youtube subscribers" title="Subscribe to my YouTube channel"
@@ -18,7 +16,7 @@ Computer Science student at Sapienza University of Rome. Passionate about coding
         src="https://custom-icon-badges.demolab.com/github/stars/realKrabZ?color=%23E1AD0E&style=for-the-badge&labelColor=C79600&logo=star"/></a>
 </p>
 
-#
+---
 
 ### 🧰 Languages and Tools
 
