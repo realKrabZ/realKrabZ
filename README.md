@@ -30,4 +30,4 @@ Computer Science student at Sapienza University of Rome. Passionate about coding
 
 ### 📊 Stats
 
-![realKrabZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkrabz&show_icons=true&theme=chartreuse-dark&custom_title=realKrabZ&border_radius=0)
+![realKrabZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=realkrabz&show_icons=true&theme=chartreuse-dark&custom_title=realKrabZ)
