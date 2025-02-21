@@ -2,6 +2,8 @@
 
 **`Digital Craftsman`**
 
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
 
 <p align="left">
