@@ -1,8 +1,8 @@
 #  🦀 realKrabz
 
-**`Digital Craftsman`**
-
 ---
+
+**`Digital Craftsman`**
 
 Computer Science student at Sapienza University of Rome. Passionate about coding, problem-solving, and game development. Currently working on a Pokémon battle simulator.
 
